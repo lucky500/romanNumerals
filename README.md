@@ -9,12 +9,12 @@
 _Enter Numbers and receive Roman Numerals_
 
 ## Specifications
-* _Add the value of all the symbols_
-  * Example Input: 6
-  * Example Input: VI
 * _Any input that is not a valid Roman Numeral will return invalid/NaN_
   * Example Input: ""
   * Example Output: ""
+* _Add the value of all the symbols_
+  * Example Input: 6
+  * Example Input: VI
 * _Cannot take a number higher than 3,999_
   * Example Input: 4,000
   * Example Output: Roman numerals cannot count higher than 3,999
